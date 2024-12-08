@@ -10,3 +10,5 @@ def soma(valor_1: float, valor_2: float) -> float:
 valor_3 = soma(valor_1, valor_2)
 
 print(f"o resultado da soma é: {valor_3}")
+
+
